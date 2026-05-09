@@ -33,9 +33,11 @@ The main objective was to apply data visualization techniques to communicate loa
 
 ## Dashboards
 
-### General Analysis
+### Loan Overview
 
 Overview of the dataset with key KPIs and general applicant insights.
+
+![Loan Overview](Page1.png)
 
 ### Loan Approval Analysis
 
