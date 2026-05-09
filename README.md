@@ -43,9 +43,14 @@ Overview of the dataset with key KPIs and general applicant insights.
 
 Focused analysis of approved loan applications by income group, education level, employment type, age group, and city.
 
+![Loan Approval Analysis](Page2.png)
+
+
 ### Loan Rejection Analysis
 
 Focused analysis of rejected loan applications to compare patterns and identify risk indicators.
+
+![Loan Rejected Analysis](Page3.png)
 
 ## Author
 
